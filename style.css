@@ -1,0 +1,71 @@
+body {
+    margin: auto;
+}
+img {
+    border: solid;
+    border-width: 1px;
+}
+span {
+    font-style: italic;
+}
+#main {
+    width: 550px;
+    margin: auto;
+    position: relative;
+    font-family:"Optima", Arial, sans-serif;
+    font-size: 12pt;
+}
+#header { 
+    position: relative; 
+    margin: auto;
+    margin-top: 10px;
+    font-size: 10pt;
+}
+#subheader { 
+    float: left;
+    margin: auto;
+    width: 350px;
+    line-height:70%;
+}
+h3 {
+    font-weight: normal;
+    font-size: 11pt;
+}
+h3.pub {
+    font-size: 11pt;
+    /* font-weight: bold; */
+    margin-bottom: 0;
+}
+h2 {
+    font-weight: bold;
+    font-size: 13pt;
+    font-variant: small-caps;
+}
+h1 {
+    font-variant: small-caps;
+    font-size: 16pt;
+}
+p.authors {
+    font-weight: normal;
+    font-size: 10pt;
+    font-style: italic;
+    margin-top: 0;
+    margin-left: 1em;
+}
+#portrait {
+    width: 150px;
+    float: right;
+    margin: auto;
+}
+#content { 
+    clear: both;
+    position: relative;
+    margin: auto;
+}
+#research {
+    position: relative;
+}
+#background {
+    clear: both;
+    position: relative;
+}
