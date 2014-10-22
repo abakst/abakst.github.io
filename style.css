@@ -69,3 +69,13 @@ p.authors {
     clear: both;
     position: relative;
 }
+
+div.title {
+    font-size: 13pt;
+    font-weight: bold;
+}
+div.summary {
+}
+div.bibtex {
+    visibility: hidden;
+}
