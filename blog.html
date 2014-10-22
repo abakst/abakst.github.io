@@ -1,0 +1,20 @@
+---
+---
+{% include header.html %}
+<div id="main">
+  <div id="header">
+    <h1>Reading List</h1>
+  </div>
+  <div id="content">
+      {% for post in site.posts %}
+        <div class="title">{{ post.title }}</div> 
+        <p class="authors">{{ post.authors }}</p>
+      </a>
+        <div class="summary">
+        {{ post.content }}
+        </div>
+        {{ post.bibtex }}
+      {% endfor %}
+ </div id="content">
+</div>    
+{% include footer.html %}
