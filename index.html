@@ -1,10 +1,6 @@
-<html>
-  <head>
-    <title>Alexander Bakst</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
-  </head>
-  
-  <body>
+---
+---
+{% include header.html %}
    <div id="main"> 
     <div id="header">
       <h1>Alexander Bakst</h1>
@@ -23,20 +19,32 @@
     <div id="content">
     <div id="research">
       <h2>Research</h2>
-      <p>I am a third year Ph.D. student in
+      <p>I am a fourth year Ph.D. student in
         the <a href="http://cseweb.ucsd.edu/groups/progsys/">Programming
         Systems</a> group at UCSD. I am interested in tools and
         techniques that not only enable the development of software
         that is guaranteed to exhibit a set of useful properties, but
-        are also as painless to use as possible. I am currently
-        working
-        on <a href="http://goto.ucsd.edu/csolve">CSolve</a>, which is a verifier for C programs based on <a href="http://goto.ucsd.edu/~rjhala/papers/low_level_liquid_types.html">Low-Level
+        are also as painless to use as possible. 
+      </p>
+
+      <p>
+        I am currently working on developing type systems for
+        reasoning about the correctness of stateful programs, in
+        particular low-level imperative programs that manipulate
+        heap-allocated data structures such as linked lists and trees.
+      </p>
+      
+      <p>
+        In the past, I have worked on
+        <a href="http://goto.ucsd.edu/csolve">CSolve</a>, 
+        which is a verifier for C programs based on <a href="http://goto.ucsd.edu/~rjhala/papers/low_level_liquid_types.html">Low-Level
         Liquid Types</a>.
+      </p>
     </div>
 
     <div id="teaching">
       <h2>Teaching</h2>
-      <p>Materials for various classes that I have TA'd live on <a
+      <p>Materials for the classes that I have TA'd at UCSD live on <a
         href="http://www.github.com/abakst/teaching">github</a>.
     </div>  
     
@@ -65,7 +73,4 @@
       </p>
     </div>
     <hr/>
-    </div>
-   </div> 
-  </body>
-</html>
+{% include footer.html %}
