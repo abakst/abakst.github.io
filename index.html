@@ -14,34 +14,38 @@
       </div>
     </div>
     <div id="content">
+    <div id="actuellement">
+    </div>
     <div id="research">
       <h2>Research</h2>
-      <p>I received my Ph.D. after six years in
-        the <a href="http://cseweb.ucsd.edu/groups/progsys/">Programming
-        Systems</a> group at UCSD. I am currently a senior engineer at Qualcomm, where I work on compilers targeting the Adreno family of GPUs.
-      </p>
-
 
       <p>
         For my Ph.D. I worked on building tools that automatically
         prove properties of paramaterized concurrent message-passing programs. The approach works by automatically computing a sequentialized variant of the program that is easier to verify than the naive product construction. The sequential program serves as a proof of shallow properties such as deadlock freedom and local assertion safety. We are currently working on extending our approach to verify deeper functional correctness properties of interesting programs, such as consensus protocols.
       </p>
-      
       <p>
-        In the past, I have worked on
-        <a href="http://goto.ucsd.edu/csolve">CSolve</a>, 
-        which is a verifier for C programs based on <a href="http://goto.ucsd.edu/~rjhala/papers/low_level_liquid_types.html">Low-Level
-        Liquid Types, a refinement type system with decidable inference</a>. I have also worked on <a href="https://ucsd-progsys.github.io/liquidhaskell-blog/">Liquid Haskell</a>,
-        a refinement type system for Haskell programs.
+          Other than the work in my dissertation, I also got to hack on:
+          <ul>
+              <li>
+                  <a href="http://goto.ucsd.edu/csolve">CSolve</a>,
+                  which is a verifier for C programs based on <a href="http://goto.ucsd.edu/~rjhala/papers/low_level_liquid_types.html">Low-Level
+                      Liquid Types, a refinement type system with decidable
+                      inference</a>.
+              </li>
+              <li>
+              <a href="https://ucsd-progsys.github.io/liquidhaskell-blog/">Liquid Haskell</a>,
+              a refinement type system for Haskell programs.
+              </li>
+          </ul>
       </p>
     </div>
 
     <div id="teaching">
       <h2>Teaching</h2>
-      <p>Materials for the classes that I have TA'd at UCSD live on <a
-        href="http://www.github.com/abakst/teaching">github</a>.
-    </div>  
-    
+      I am currently a lecturer at UC San Diego, where I am teaching
+      <a href="https://cseweb.ucsd.edu/classes/sp19/cse131-a/">CSE 131 - Compiler Construction</a>.
+    </div>
+
     <div id="publications">
     <h2>Publications</h2>
     <!-- <ul> -->
@@ -76,13 +80,24 @@
     <div id="background">
       <h2>Background</h2>
       <p>I graduated from MIT in 2008 with an S.B. in Computer
-      Science, and again in 2009 with an M.Eng (<a href="http://dspace.mit.edu/handle/1721.1/53142">thesis</a>). After
-      graduation, I worked at Oracle with a fantastic group of people
-      developing a cluster filesystem for Windows, Linux, AIX, and
-      Solaris. It was at this time that I became interested in
-      programming languages and program analysis, especially with
-      respect to analyzing systems software.
+          Science, and again in 2009 with an M.Eng (<a href="http://dspace.mit.edu/handle/1721.1/53142">thesis</a>).
       </p>
+
+      <p>
+      After graduation, I worked at Oracle with a fantastic group of people
+      developing a cluster filesystem for Windows, Linux, AIX, and Solaris. It
+      was at this time that I became interested in programming languages and
+      program analysis, especially with respect to analyzing systems software.
+      </p>
+
+      <p>I earned my Ph.D. after six years in
+              the <a href="http://cseweb.ucsd.edu/groups/progsys/">Programming
+              Systems</a>
+              group at UCSD.
+     </p>
+
+     <p>After earning my Ph.D., I was a senior engineer at Qualcomm, where I worked on maintaining the compiler for the Adreno family of GPUs, supporting the OpenGL and Vulkan front- and middle-ends.
+     </p>
     </div>
     <hr/>
 {% include footer.html %}
