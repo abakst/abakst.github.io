@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/abakst
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://abakst.github.io
+  * I am abakst (https://keybase.io/abakst) on keybase.
+  * I have a public key ASAlnfMUrWPpcpCkisfrewWuk0WKBH7DaJtOqnu6PclmsQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120259df314ad63e97290a48ac7eb7b05ae93458a047ec3689b4eaa7bba3dc966b10a",
+      "host": "keybase.io",
+      "kid": "0120259df314ad63e97290a48ac7eb7b05ae93458a047ec3689b4eaa7bba3dc966b10a",
+      "uid": "145402cb25202f5793518f30475a9919",
+      "username": "abakst"
+    },
+    "merkle_root": {
+      "ctime": 1564605865,
+      "hash": "13a377bc59fa0b08ded6146de52e42f1b9d8dcbda9dec929a6b5dbdfd5f06343e9460a9354821043e775629b5be1879496bc1472f790460f5d4a832f34a8a8ac",
+      "hash_meta": "aa032a41ab1be374d51bd523c1777c317ad601178f44e0942d5023c97456b63a",
+      "seqno": 5900346
+    },
+    "service": {
+      "entropy": "qf4OY32GJ2l4t5Zp2vvof6Qf",
+      "hostname": "abakst.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.2.0"
+  },
+  "ctime": 1564605891,
+  "expire_in": 504576000,
+  "prev": "c751d41b31c3bacd050f5abedec1b764e5205bf9ad3fc81a6125784c2b60b555",
+  "seqno": 25,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgJZ3zFK1j6XKQpIrH63sFrpNFigR+w2ibTqp7uj3JZrEKp3BheWxvYWTESpcCGcQgx1HUGzHDus0FD1q+3sG3ZOUgW/mtP8gaYSV4TCtgtVXEIH/cvTVaklUJF4idA6E+f4+f2RB67jZd6WRqralrSm6AAgHCo3NpZ8RAGBtgRTvoMOtjEdX+8qziA06Ho3n8QEXPmiU8cfsYnkN0O0d5d3J+5FkHJF9HJykvH73UxaWY2REJUlyx5dKAA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAvzeKVavnc+9G4ghwhGAUz6nsVbitDBxQVU1OJryuIuo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/abakst
+
+==================================================================
