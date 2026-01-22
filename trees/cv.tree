@@ -1,0 +1,5 @@
+\title{Curriculum Vitae}
+\transclude{work}
+\transclude{publications}
+\transclude{service}
+\transclude{edu}

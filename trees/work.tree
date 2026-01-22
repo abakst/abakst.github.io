@@ -1,0 +1,9 @@
+\title{Work History}
+\scope{
+    \put\transclude/toc{false}
+    \transclude{aarno}
+    \transclude{certora}
+    \transclude{galois}
+    \transclude{qualcomm}
+    \transclude{oracle}
+}

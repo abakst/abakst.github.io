@@ -1,0 +1,14 @@
+\title{Education}
+\scope{
+    \put\transclude/toc{false}
+    \subtree{
+        \title{University of California, San Diego}
+        \p{\em{Ph.D., Computer Science, 2017}}%
+        \p{Dissertation: "Sequentialization and Synchronization for Distributed Programs"}%
+    }
+    \subtree{
+        \title{Massachusetts Institute of Technology}
+        \p{\em{M.Eng., Computer Science, 2009},%
+        \em{S.B., Computer Science, 2008}}
+    }
+}

@@ -1,0 +1,18 @@
+\title{Predicate Abstraction for Linked Data Structures}
+\date{2016}
+\taxon{Reference}
+\tag{refereed}
+
+\author{alexander}
+\author{ranjitjhala}
+
+\meta{doi}{10.1007/978-3-662-49122-5_3}
+\meta{venue}{[[vmcai2016]]}
+
+\p{%
+We present Alias Refinement Types Art, a new approach that uses predicate-abstraction%
+to automate the verification of correctness properties of linked data structures.%
+While there are many techniques for checking that a heap-manipulating program adheres to its specification, they often require that the programmer annotate the behavior of each procedure, for example, in the form of loop invariants and pre- and post-conditions.%
+We introduce a technique that lifts predicate abstraction to the heap by factoring the analysis of data structures into two orthogonal components: 1ï źAlias Types, which reason about the physical shape of heap structures, and 2ï źRefinement Types, which use simple predicates from an SMT decidable theory to capture the logical or semantic properties of the structures.%
+We evaluate Art by implementing a tool that performs type inference for an imperative language, and empirically show, using a suite of data-structure benchmarks, that Art requires only 21ï ź% of the annotations needed by other state-of-the-art verification techniques.
+}

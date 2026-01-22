@@ -1,0 +1,9 @@
+\title{[Aarno Labs](https://www.aarno-labs.com)}
+\tag{work}
+\p{%
+\strong{\em{Senior Research Developer}} %
+\ul{
+\li{\em{TRACTOR}: Translation of C to safe, idiomatic Rust.}
+\li{\em{MOCHA}: Reducing the burden of adding compiler support for new, heterogeneous architectures.}
+}%
+}

@@ -1,0 +1,9 @@
+\title{[Certora](https://www.certora.com)}
+\tag{work}
+\p{%
+\strong{\em{Senior Researcher}} %
+\em{(2022 - 2025)}
+Research and development of a static analyzer for smart contracts. Owned core static analy-
+sis used by EVM and WASM analyzers, provided technical leadership and contributed to the
+development of front-ends and analyses for other target languages.
+}

@@ -1,0 +1,4 @@
+\title{Alexander Bakst}
+\<html:img>[src]{\route-asset{assets/portrait.jpeg}}[width]{100px}{}
+\p{I am a research developer at [Aarno Labs](aarno)}
+\p{Here you can find my [CV](cv), 而且有我的[学习中文的博客](zhongwen)}

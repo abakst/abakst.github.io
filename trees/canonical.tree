@@ -1,0 +1,14 @@
+\title{Verification of Distributed Programs via Canonical Sequentialization}
+\date{2017}
+\taxon{Reference}
+\tag{refereed}
+
+\author{alexander}
+\author{klausvgleissenthall}
+\author{ramikici}
+\author{ranjitjhala}
+
+\meta{doi}{10.1145/3133934}
+\meta{venue}{[[oopsla2017]]}
+\p{We introduce canonical sequentialization, a new approach to verifying unbounded, asynchronous, message-passing programs at compile-time. Our approach builds upon the following observation: due the combinatorial explosion in complexity, programmers do not reason about their systems by case-splitting over all the possible execution orders. Instead, correct programs tend to be well-structured so that the programmer can reason about a small number of representative executions, which we call the program’s canonical sequentialization. We have implemented our approach in a tool called Brisk that synthesizes canonical sequentializations for programs written in Haskell, and evaluated it on a wide variety of distributed systems including benchmarks from the literature and implementations of MapReduce, two-phase commit, and a version of the Disco distributed file-system. We show that unlike model checking, which gets prohibitively slow with just 10 processes Brisk verifies the unbounded versions of the benchmarks in tens of milliseconds, yielding the first concurrency verification tool that is fast enough to be integrated into a design-implement-check cycle.
+}

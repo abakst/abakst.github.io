@@ -1,0 +1,6 @@
+\title{Publications}
+\query\datalog{
+  ?X -:
+   {\rel/has-author ?X @{alexander}}
+   {\rel/is-reference ?X}
+}

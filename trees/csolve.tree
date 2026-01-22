@@ -1,0 +1,11 @@
+\title{CSolve: Verifying C with Liquid Types}
+\taxon{Reference}
+\tag{reviewed}
+\date{2012}
+\author{patrickrondon}
+\author{alexander}
+\author{mingkawaguchi}
+\author{ranjitjhala}
+\meta{venue}{[[cav2012]]}
+\meta{doi}{10.1007/978-3-642-31424-7_59}
+\p{We present CSolve, an automated verifier for C programs based on Liquid Type inference. We show how CSolve verifies memory safety through an example and describe its architecture and interface.}
