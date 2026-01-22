@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://abakst.github.io/zhongwen/</fr:uri>
+    <fr:display-uri>zhongwen</fr:display-uri>
+    <fr:route>/zhongwen/</fr:route>
+    <fr:title text="学习中文的博客">学习中文的博客</fr:title>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:date>
+          <fr:year>2026</fr:year>
+          <fr:month>1</fr:month>
+          <fr:day>21</fr:day>
+        </fr:date>
+        <fr:uri>https://abakst.github.io/0001/</fr:uri>
+        <fr:display-uri>0001</fr:display-uri>
+        <fr:route>/0001/</fr:route>
+        <fr:title text="欢迎来到！">欢迎来到！</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <html:p>我希望用这个博客来学习并练习中文。我计划每次用口语来写几个句子， 然后查出什么是对的， 什么是对的， 最后写我所了解了。
+</html:p>
+      </fr:mainmatter>
+    </fr:tree>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://abakst.github.io/index/</fr:uri>
+            <fr:display-uri>index</fr:display-uri>
+            <fr:route>/index/</fr:route>
+            <fr:title text="Alexander Bakst">Alexander Bakst</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:img src="/bafkrmiecouf2rl6h26q4bu76hu7o72eppcyd4yjdlsim5tybun6xt3zi5m.jpeg" width="100px" />
+            <html:p>I am a research developer at <fr:link href="/aarno/" title="Aarno Labs" uri="https://abakst.github.io/aarno/" display-uri="aarno" type="local">Aarno Labs</fr:link></html:p>
+            <html:p>Here you can find my <fr:link href="/cv/" title="Curriculum Vitae" uri="https://abakst.github.io/cv/" display-uri="cv" type="local">CV</fr:link>, 而且有我的<fr:link href="/zhongwen/" title="学习中文的博客" uri="https://abakst.github.io/zhongwen/" display-uri="zhongwen" type="local">学习中文的博客</fr:link></html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

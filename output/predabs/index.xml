@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/ranjitjhala/" title="Ranjit Jhala" uri="https://abakst.github.io/ranjitjhala/" display-uri="ranjitjhala" type="local">Ranjit Jhala</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2016</fr:year>
+    </fr:date>
+    <fr:uri>https://abakst.github.io/predabs/</fr:uri>
+    <fr:display-uri>predabs</fr:display-uri>
+    <fr:route>/predabs/</fr:route>
+    <fr:title text="Predicate Abstraction for Linked Data Structures">Predicate Abstraction for Linked Data Structures</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="doi">10.1007/978-3-662-49122-5_3</fr:meta>
+    <fr:meta name="venue">
+      <fr:link href="/vmcai2016/" title="VMCAI 2016: Verification, Model Checking and Abstract Interpretation" uri="https://abakst.github.io/vmcai2016/" display-uri="vmcai2016" type="local"><html:em>VMCAI 2016</html:em>: Verification, Model Checking and Abstract Interpretation</fr:link>
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>We present Alias Refinement Types Art, a new approach that uses predicate-abstractionto automate the verification of correctness properties of linked data structures.While there are many techniques for checking that a heap-manipulating program adheres to its specification, they often require that the programmer annotate the behavior of each procedure, for example, in the form of loop invariants and pre- and post-conditions.We introduce a technique that lifts predicate abstraction to the heap by factoring the analysis of data structures into two orthogonal components: 1ï źAlias Types, which reason about the physical shape of heap structures, and 2ï źRefinement Types, which use simple predicates from an SMT decidable theory to capture the logical or semantic properties of the structures.We evaluate Art by implementing a tool that performs type inference for an imperative language, and empirically show, using a suite of data-structure benchmarks, that Art requires only 21ï ź</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:date>
+              <fr:year>2016</fr:year>
+            </fr:date>
+            <fr:uri>https://abakst.github.io/vmcai2016/</fr:uri>
+            <fr:display-uri>vmcai2016</fr:display-uri>
+            <fr:route>/vmcai2016/</fr:route>
+            <fr:title text="VMCAI 2016: Verification, Model Checking and Abstract Interpretation"><html:em>VMCAI 2016</html:em>: Verification, Model Checking and Abstract Interpretation</fr:title>
+            <fr:taxon>Conference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

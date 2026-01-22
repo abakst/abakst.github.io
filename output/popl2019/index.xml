@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:date>
+      <fr:year>2024</fr:year>
+    </fr:date>
+    <fr:uri>https://abakst.github.io/popl2019/</fr:uri>
+    <fr:display-uri>popl2019</fr:display-uri>
+    <fr:route>/popl2019/</fr:route>
+    <fr:title text="POPL 2019: Principles of Programming Languages"><html:em>POPL 2019</html:em>: Principles of Programming Languages</fr:title>
+    <fr:taxon>Conference</fr:taxon>
+    <fr:meta name="external">https://www.sigplan.org/Conferences/POPL/</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/klausvgleissenthall/" title="Klaus v. Gleissenthall" uri="https://abakst.github.io/klausvgleissenthall/" display-uri="klausvgleissenthall" type="local">Klaus v. Gleissenthall</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/ramikici/" title="Rami Gökhan Kıcı" uri="https://abakst.github.io/ramikici/" display-uri="ramikici" type="local">Rami Gökhan Kıcı</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/deianstefan/" title="Deian Stefan" uri="https://abakst.github.io/deianstefan/" display-uri="deianstefan" type="local">Deian Stefan</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/ranjitjhala/" title="Ranjit Jhala" uri="https://abakst.github.io/ranjitjhala/" display-uri="ranjitjhala" type="local">Ranjit Jhala</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2019</fr:year>
+            </fr:date>
+            <fr:uri>https://abakst.github.io/pretend/</fr:uri>
+            <fr:display-uri>pretend</fr:display-uri>
+            <fr:route>/pretend/</fr:route>
+            <fr:title text="Pretend Synchrony: Synchronous Verification of Asynchronous Distributed Programs">Pretend Synchrony: Synchronous Verification of Asynchronous Distributed Programs</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1145/3290372</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/popl2019/" title="POPL 2019: Principles of Programming Languages" uri="https://abakst.github.io/popl2019/" display-uri="popl2019" type="local"><html:em>POPL 2019</html:em>: Principles of Programming Languages</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We present pretend synchrony, a new approach to verifying distributed systems, based on the observation that while distributed programs must execute asynchronously, we can often soundly treat them as if they were synchronous when verifying their correctness. To do so, we compute a synchronization, a semantically equivalent program where all sends, receives, and message buffers, have been replaced by simple assignments, yielding a program that can be verified using Floyd-Hoare style Verification Conditions and SMT. We implement our approach as a framework for writing verified distributed programs in Go and evaluate it with four challenging case studies— the classic two-phase commit protocol, the Raft leader election protocol, single-decree Paxos protocol, and a Multi-Paxos based distributed key-value store. We find that pretend synchrony allows us to develop performant systems while making verification of functional correctness simpler by reducing manually specified invariants by a factor of 6, and faster, by reducing checking time by three orders of magnitude.
+</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

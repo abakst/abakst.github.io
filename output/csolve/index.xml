@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/patrickrondon/" title="Patrick Rondon" uri="https://abakst.github.io/patrickrondon/" display-uri="patrickrondon" type="local">Patrick Rondon</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/mingkawaguchi/" title="Ming Kawaguchi" uri="https://abakst.github.io/mingkawaguchi/" display-uri="mingkawaguchi" type="local">Ming Kawaguchi</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/ranjitjhala/" title="Ranjit Jhala" uri="https://abakst.github.io/ranjitjhala/" display-uri="ranjitjhala" type="local">Ranjit Jhala</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2012</fr:year>
+    </fr:date>
+    <fr:uri>https://abakst.github.io/csolve/</fr:uri>
+    <fr:display-uri>csolve</fr:display-uri>
+    <fr:route>/csolve/</fr:route>
+    <fr:title text="CSolve: Verifying C with Liquid Types">CSolve: Verifying C with Liquid Types</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="venue">
+      <fr:link href="/cav2012/" title="CAV 2012: Computer Aided Verification" uri="https://abakst.github.io/cav2012/" display-uri="cav2012" type="local"><html:em>CAV 2012</html:em>: Computer Aided Verification</fr:link>
+    </fr:meta>
+    <fr:meta name="doi">10.1007/978-3-642-31424-7_59</fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>We present CSolve, an automated verifier for C programs based on Liquid Type inference. We show how CSolve verifies memory safety through an example and describe its architecture and interface.</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:date>
+              <fr:year>2012</fr:year>
+            </fr:date>
+            <fr:uri>https://abakst.github.io/cav2012/</fr:uri>
+            <fr:display-uri>cav2012</fr:display-uri>
+            <fr:route>/cav2012/</fr:route>
+            <fr:title text="CAV 2012: Computer Aided Verification"><html:em>CAV 2012</html:em>: Computer Aided Verification</fr:title>
+            <fr:taxon>Conference</fr:taxon>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

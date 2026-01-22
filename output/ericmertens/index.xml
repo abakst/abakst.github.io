@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://abakst.github.io/ericmertens/</fr:uri>
+    <fr:display-uri>ericmertens</fr:display-uri>
+    <fr:route>/ericmertens/</fr:route>
+    <fr:title text="Eric Mertens">Eric Mertens</fr:title>
+    <fr:taxon>Person</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/jenniferpaykin/" title="Jennifer Paykin" uri="https://abakst.github.io/jenniferpaykin/" display-uri="jenniferpaykin" type="local">Jennifer Paykin</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/ericmertens/" title="Eric Mertens" uri="https://abakst.github.io/ericmertens/" display-uri="ericmertens" type="local">Eric Mertens</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/marktullsen/" title="Mark Tullsen" uri="https://abakst.github.io/marktullsen/" display-uri="marktullsen" type="local">Mark Tullsen</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/lukemaurer/" title="Luke Maurer" uri="https://abakst.github.io/lukemaurer/" display-uri="lukemaurer" type="local">Luke Maurer</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/benoitrazet/" title="Benoît Razet" uri="https://abakst.github.io/benoitrazet/" display-uri="benoitrazet" type="local">Benoît Razet</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/scottmoore/" title="Scott Moore" uri="https://abakst.github.io/scottmoore/" display-uri="scottmoore" type="local">Scott Moore</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2019</fr:year>
+            </fr:date>
+            <fr:uri>https://abakst.github.io/weird/</fr:uri>
+            <fr:display-uri>weird</fr:display-uri>
+            <fr:route>/weird/</fr:route>
+            <fr:title text="Weird Machines as Insecure Compilation">Weird Machines as Insecure Compilation</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.48550/ARXIV.1911.00157</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

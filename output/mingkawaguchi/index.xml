@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://abakst.github.io/mingkawaguchi/</fr:uri>
+    <fr:display-uri>mingkawaguchi</fr:display-uri>
+    <fr:route>/mingkawaguchi/</fr:route>
+    <fr:title text="Ming Kawaguchi">Ming Kawaguchi</fr:title>
+    <fr:taxon>Person</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/patrickrondon/" title="Patrick Rondon" uri="https://abakst.github.io/patrickrondon/" display-uri="patrickrondon" type="local">Patrick Rondon</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/mingkawaguchi/" title="Ming Kawaguchi" uri="https://abakst.github.io/mingkawaguchi/" display-uri="mingkawaguchi" type="local">Ming Kawaguchi</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/ranjitjhala/" title="Ranjit Jhala" uri="https://abakst.github.io/ranjitjhala/" display-uri="ranjitjhala" type="local">Ranjit Jhala</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2012</fr:year>
+            </fr:date>
+            <fr:uri>https://abakst.github.io/csolve/</fr:uri>
+            <fr:display-uri>csolve</fr:display-uri>
+            <fr:route>/csolve/</fr:route>
+            <fr:title text="CSolve: Verifying C with Liquid Types">CSolve: Verifying C with Liquid Types</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">
+              <fr:link href="/cav2012/" title="CAV 2012: Computer Aided Verification" uri="https://abakst.github.io/cav2012/" display-uri="cav2012" type="local"><html:em>CAV 2012</html:em>: Computer Aided Verification</fr:link>
+            </fr:meta>
+            <fr:meta name="doi">10.1007/978-3-642-31424-7_59</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>We present CSolve, an automated verifier for C programs based on Liquid Type inference. We show how CSolve verifies memory safety through an example and describe its architecture and interface.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/mingkawaguchi/" title="Ming Kawaguchi" uri="https://abakst.github.io/mingkawaguchi/" display-uri="mingkawaguchi" type="local">Ming Kawaguchi</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/patrickrondon/" title="Patrick Rondon" uri="https://abakst.github.io/patrickrondon/" display-uri="patrickrondon" type="local">Patrick Rondon</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2012</fr:year>
+            </fr:date>
+            <fr:uri>https://abakst.github.io/liquideffects/</fr:uri>
+            <fr:display-uri>liquideffects</fr:display-uri>
+            <fr:route>/liquideffects/</fr:route>
+            <fr:title text="Deterministic Parallelism via Liquid Effects">Deterministic Parallelism via Liquid Effects</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="venue">
+              <fr:link href="/pldi2012/" title="PLDI 2012: Programming Language Design and Implementation" uri="https://abakst.github.io/pldi2012/" display-uri="pldi2012" type="local"><html:em>PLDI 2012</html:em>: Programming Language Design and Implementation</fr:link>
+            </fr:meta>
+            <fr:meta name="doi">10.1145/2254064.2254071</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>Shared memory multithreading is a popular approach to parallel programming, but also fiendishly hard to get right. We present Liquid Effects, a type-and-effect system based on refinement types which allows for fine-grained, low-level, shared memory multi-threading while statically guaranteeing that a program is deterministic. Liquid Effects records the effect of an expression as a for- mula in first-order logic, making our type-and-effect system highly expressive. Further, effects like Read and Write are recorded in Liquid Effects as ordinary uninterpreted predicates, leaving the effect system open to extension by the user. By building our system as an extension to an existing dependent refinement type system, our system gains precise value- and branch-sensitive reasoning about effects. Finally, our system exploits the Liquid Types refinement type inference technique to automatically infer refinement types and effects. We have implemented our type-and-effect checking techniques in CSOLVE, a refinement type inference system for C programs. We demonstrate how CSOLVE uses Liquid Effects to prove the determinism of a variety of benchmarks.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

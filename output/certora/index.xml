@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://abakst.github.io/certora/</fr:uri>
+    <fr:display-uri>certora</fr:display-uri>
+    <fr:route>/certora/</fr:route>
+    <fr:title text="Certora">
+      <fr:link href="https://www.certora.com/" type="external">Certora</fr:link>
+    </fr:title>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p><html:strong><html:em>Senior Researcher</html:em></html:strong> <html:em>(2022 - 2025)</html:em>
+Research and development of a static analyzer for smart contracts. Owned core static analy-
+sis used by EVM and WASM analyzers, provided technical leadership and contributed to the
+development of front-ends and analyses for other target languages.
+</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://abakst.github.io/work/</fr:uri>
+            <fr:display-uri>work</fr:display-uri>
+            <fr:route>/work/</fr:route>
+            <fr:title text="Work History">Work History</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+    
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/aarno/</fr:uri><fr:display-uri>aarno</fr:display-uri><fr:route>/aarno/</fr:route><fr:title text="Aarno Labs"><fr:link href="https://www.aarno-labs.com/" type="external">Aarno Labs</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Senior Research Developer</html:em></html:strong> <html:ul><html:li><html:em>TRACTOR</html:em>: Translation of C to safe, idiomatic Rust.</html:li>
+<html:li><html:em>MOCHA</html:em>: Reducing the burden of adding compiler support for new, heterogeneous architectures.</html:li></html:ul></html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/certora/</fr:uri><fr:display-uri>certora</fr:display-uri><fr:route>/certora/</fr:route><fr:title text="Certora"><fr:link href="https://www.certora.com/" type="external">Certora</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Senior Researcher</html:em></html:strong> <html:em>(2022 - 2025)</html:em>
+Research and development of a static analyzer for smart contracts. Owned core static analy-
+sis used by EVM and WASM analyzers, provided technical leadership and contributed to the
+development of front-ends and analyses for other target languages.
+</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/galois/</fr:uri><fr:display-uri>galois</fr:display-uri><fr:route>/galois/</fr:route><fr:title text="Galois"><fr:link href="https://galois.com/" type="external">Galois</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Research Engineer</html:em></html:strong> <html:em>(2019 - 2022)</html:em> Software development in the areas of verification, symbolic execution, computer security, cryp-
+tography, hardware design, and high-assurance software development.</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/qualcomm/</fr:uri><fr:display-uri>qualcomm</fr:display-uri><fr:route>/qualcomm/</fr:route><fr:title text="Qualcomm"><fr:link href="https://www.qualcomm.com/" type="external">Qualcomm</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Senior Engineer</html:em></html:strong> <html:em>(2017 - 2019)</html:em> Responsible for maintenance and feature development in support of the shader compiler for
+Qualcomm GPU chipsets, focusing on support for the production Vulkan shader compiler.</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/oracle/</fr:uri><fr:display-uri>oracle</fr:display-uri><fr:route>/oracle/</fr:route><fr:title text="Oracle"><fr:link href="https://www.oracle.com/" type="external">Oracle</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Software Developer</html:em></html:strong> <html:em>(2009 - 2011)</html:em> Developed a cluster filesystem and a dynamic volume manager (Oracle ACFS and Oracle ADVM).
+I contributed to both products on Linux, IBM AIX, Solaris, and Windows 2003 and 2008.</html:p></fr:mainmatter></fr:tree>
+</fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

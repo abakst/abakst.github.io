@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors>
+      <fr:author>
+        <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/klausvgleissenthall/" title="Klaus v. Gleissenthall" uri="https://abakst.github.io/klausvgleissenthall/" display-uri="klausvgleissenthall" type="local">Klaus v. Gleissenthall</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/ramikici/" title="Rami Gökhan Kıcı" uri="https://abakst.github.io/ramikici/" display-uri="ramikici" type="local">Rami Gökhan Kıcı</fr:link>
+      </fr:author>
+      <fr:author>
+        <fr:link href="/ranjitjhala/" title="Ranjit Jhala" uri="https://abakst.github.io/ranjitjhala/" display-uri="ranjitjhala" type="local">Ranjit Jhala</fr:link>
+      </fr:author>
+    </fr:authors>
+    <fr:date>
+      <fr:year>2017</fr:year>
+    </fr:date>
+    <fr:uri>https://abakst.github.io/canonical/</fr:uri>
+    <fr:display-uri>canonical</fr:display-uri>
+    <fr:route>/canonical/</fr:route>
+    <fr:title text="Verification of Distributed Programs via Canonical Sequentialization">Verification of Distributed Programs via Canonical Sequentialization</fr:title>
+    <fr:taxon>Reference</fr:taxon>
+    <fr:meta name="doi">10.1145/3133934</fr:meta>
+    <fr:meta name="venue">
+      <fr:link href="/oopsla2017/" title="OOPSLA 2017: Object-Oriented Programming, Systems, Languages &amp; Applications" uri="https://abakst.github.io/oopsla2017/" display-uri="oopsla2017" type="local"><html:em>OOPSLA 2017</html:em>: Object-Oriented Programming, Systems, Languages &amp; Applications</fr:link>
+    </fr:meta>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    <html:p>We introduce canonical sequentialization, a new approach to verifying unbounded, asynchronous, message-passing programs at compile-time. Our approach builds upon the following observation: due the combinatorial explosion in complexity, programmers do not reason about their systems by case-splitting over all the possible execution orders. Instead, correct programs tend to be well-structured so that the programmer can reason about a small number of representative executions, which we call the program’s canonical sequentialization. We have implemented our approach in a tool called Brisk that synthesizes canonical sequentializations for programs written in Haskell, and evaluated it on a wide variety of distributed systems including benchmarks from the literature and implementations of MapReduce, two-phase commit, and a version of the Disco distributed file-system. We show that unlike model checking, which gets prohibitively slow with just 10 processes Brisk verifies the unbounded versions of the benchmarks in tens of milliseconds, yielding the first concurrency verification tool that is fast enough to be integrated into a design-implement-check cycle.
+</html:p>
+  </fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:date>
+              <fr:year>2017</fr:year>
+            </fr:date>
+            <fr:uri>https://abakst.github.io/oopsla2017/</fr:uri>
+            <fr:display-uri>oopsla2017</fr:display-uri>
+            <fr:route>/oopsla2017/</fr:route>
+            <fr:title text="OOPSLA 2017: Object-Oriented Programming, Systems, Languages &amp; Applications"><html:em>OOPSLA 2017</html:em>: Object-Oriented Programming, Systems, Languages &amp; Applications</fr:title>
+            <fr:taxon>Conference</fr:taxon>
+            <fr:meta name="external">https://www.sigplan.org/Conferences/OOPSLA/</fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter />
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

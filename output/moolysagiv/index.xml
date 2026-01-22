@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://abakst.github.io/moolysagiv/</fr:uri>
+    <fr:display-uri>moolysagiv</fr:display-uri>
+    <fr:route>/moolysagiv/</fr:route>
+    <fr:title text="Mooly Sagiv">Mooly Sagiv</fr:title>
+    <fr:taxon>Person</fr:taxon>
+  </fr:frontmatter>
+  <fr:mainmatter />
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors>
+              <fr:author>
+                <fr:link href="/shellygrossman/" title="Shelly Grossman" uri="https://abakst.github.io/shellygrossman/" display-uri="shellygrossman" type="local">Shelly Grossman</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/johntoman/" title="John Toman" uri="https://abakst.github.io/johntoman/" display-uri="johntoman" type="local">John Toman</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/sameerarora/" title="Sameer Arora" uri="https://abakst.github.io/sameerarora/" display-uri="sameerarora" type="local">Sameer Arora</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/moolysagiv/" title="Mooly Sagiv" uri="https://abakst.github.io/moolysagiv/" display-uri="moolysagiv" type="local">Mooly Sagiv</fr:link>
+              </fr:author>
+              <fr:author>
+                <fr:link href="/chandrakananandi/" title="Chandrakana Nandi" uri="https://abakst.github.io/chandrakananandi/" display-uri="chandrakananandi" type="local">Chandrakana Nandi</fr:link>
+              </fr:author>
+            </fr:authors>
+            <fr:date>
+              <fr:year>2024</fr:year>
+            </fr:date>
+            <fr:uri>https://abakst.github.io/memsplitting/</fr:uri>
+            <fr:display-uri>memsplitting</fr:display-uri>
+            <fr:route>/memsplitting/</fr:route>
+            <fr:title text="Practical Verification of Smart Contracts using Memory Splitting">Practical Verification of Smart Contracts using Memory Splitting</fr:title>
+            <fr:taxon>Reference</fr:taxon>
+            <fr:meta name="doi">10.1145/3689796</fr:meta>
+            <fr:meta name="venue">
+              <fr:link href="/oopsla2024/" title="OOPSLA 2024: Object-Oriented Programming, Systems, Languages &amp; Applications" uri="https://abakst.github.io/oopsla2024/" display-uri="oopsla2024" type="local"><html:em>OOPSLA 2024</html:em>: Object-Oriented Programming, Systems, Languages &amp; Applications</fr:link>
+            </fr:meta>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <html:p>SMT-based verification of low-level code requires modeling and reasoning about memory operations. Prior work has shown that optimizing memory representations is beneficial for scaling verification—pointer analysis, for example can be used to split memory into disjoint regions leading to faster SMT solving. However, these techniques are mostly designed for C and C++ programs with explicit operations for memory allocation which are not present in all languages. For instance, on the Ethereum virtual machine, memory is simply a monolithic array of bytes which can be freely accessed by Ethereum bytecode, and there is no allocation primitive. In this paper, we present a memory splitting transformation guided by a conservative memory analysis for Ethereum bytecode generated by the Solidity compiler. The analysis consists of two phases: recovering memory allocation and memory regions, followed by a pointer analysis. The goal of the analysis is to enable memory splitting which in turn speeds up verification. We implemented both the analysis and the memory splitting transformation as part of a verification tool, CertoraProver, and show that the transformation speeds up SMT solving by up to 120x and additionally mitigates 16 timeouts when used on 229 real-world smart contract verification tasks.</html:p>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>

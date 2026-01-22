@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/default.xsl"?>
+<fr:tree xmlns:fr="http://www.forester-notes.org" xmlns:html="http://www.w3.org/1999/xhtml" xmlns:xml="http://www.w3.org/XML/1998/namespace" root="false" base-url="/">
+  <fr:frontmatter>
+    <fr:authors />
+    <fr:uri>https://abakst.github.io/work/</fr:uri>
+    <fr:display-uri>work</fr:display-uri>
+    <fr:route>/work/</fr:route>
+    <fr:title text="Work History">Work History</fr:title>
+  </fr:frontmatter>
+  <fr:mainmatter>
+    
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/aarno/</fr:uri><fr:display-uri>aarno</fr:display-uri><fr:route>/aarno/</fr:route><fr:title text="Aarno Labs"><fr:link href="https://www.aarno-labs.com/" type="external">Aarno Labs</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Senior Research Developer</html:em></html:strong> <html:ul><html:li><html:em>TRACTOR</html:em>: Translation of C to safe, idiomatic Rust.</html:li>
+<html:li><html:em>MOCHA</html:em>: Reducing the burden of adding compiler support for new, heterogeneous architectures.</html:li></html:ul></html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/certora/</fr:uri><fr:display-uri>certora</fr:display-uri><fr:route>/certora/</fr:route><fr:title text="Certora"><fr:link href="https://www.certora.com/" type="external">Certora</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Senior Researcher</html:em></html:strong> <html:em>(2022 - 2025)</html:em>
+Research and development of a static analyzer for smart contracts. Owned core static analy-
+sis used by EVM and WASM analyzers, provided technical leadership and contributed to the
+development of front-ends and analyses for other target languages.
+</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/galois/</fr:uri><fr:display-uri>galois</fr:display-uri><fr:route>/galois/</fr:route><fr:title text="Galois"><fr:link href="https://galois.com/" type="external">Galois</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Research Engineer</html:em></html:strong> <html:em>(2019 - 2022)</html:em> Software development in the areas of verification, symbolic execution, computer security, cryp-
+tography, hardware design, and high-assurance software development.</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/qualcomm/</fr:uri><fr:display-uri>qualcomm</fr:display-uri><fr:route>/qualcomm/</fr:route><fr:title text="Qualcomm"><fr:link href="https://www.qualcomm.com/" type="external">Qualcomm</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Senior Engineer</html:em></html:strong> <html:em>(2017 - 2019)</html:em> Responsible for maintenance and feature development in support of the shader compiler for
+Qualcomm GPU chipsets, focusing on support for the production Vulkan shader compiler.</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/oracle/</fr:uri><fr:display-uri>oracle</fr:display-uri><fr:route>/oracle/</fr:route><fr:title text="Oracle"><fr:link href="https://www.oracle.com/" type="external">Oracle</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Software Developer</html:em></html:strong> <html:em>(2009 - 2011)</html:em> Developed a cluster filesystem and a dynamic volume manager (Oracle ACFS and Oracle ADVM).
+I contributed to both products on Linux, IBM AIX, Solaris, and Windows 2003 and 2008.</html:p></fr:mainmatter></fr:tree>
+</fr:mainmatter>
+  <fr:backmatter>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="References">References</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Context">Context</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://abakst.github.io/cv/</fr:uri>
+            <fr:display-uri>cv</fr:display-uri>
+            <fr:route>/cv/</fr:route>
+            <fr:title text="Curriculum Vitae">Curriculum Vitae</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:uri>https://abakst.github.io/work/</fr:uri>
+                <fr:display-uri>work</fr:display-uri>
+                <fr:route>/work/</fr:route>
+                <fr:title text="Work History">Work History</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+    
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/aarno/</fr:uri><fr:display-uri>aarno</fr:display-uri><fr:route>/aarno/</fr:route><fr:title text="Aarno Labs"><fr:link href="https://www.aarno-labs.com/" type="external">Aarno Labs</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Senior Research Developer</html:em></html:strong> <html:ul><html:li><html:em>TRACTOR</html:em>: Translation of C to safe, idiomatic Rust.</html:li>
+<html:li><html:em>MOCHA</html:em>: Reducing the burden of adding compiler support for new, heterogeneous architectures.</html:li></html:ul></html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/certora/</fr:uri><fr:display-uri>certora</fr:display-uri><fr:route>/certora/</fr:route><fr:title text="Certora"><fr:link href="https://www.certora.com/" type="external">Certora</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Senior Researcher</html:em></html:strong> <html:em>(2022 - 2025)</html:em>
+Research and development of a static analyzer for smart contracts. Owned core static analy-
+sis used by EVM and WASM analyzers, provided technical leadership and contributed to the
+development of front-ends and analyses for other target languages.
+</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/galois/</fr:uri><fr:display-uri>galois</fr:display-uri><fr:route>/galois/</fr:route><fr:title text="Galois"><fr:link href="https://galois.com/" type="external">Galois</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Research Engineer</html:em></html:strong> <html:em>(2019 - 2022)</html:em> Software development in the areas of verification, symbolic execution, computer security, cryp-
+tography, hardware design, and high-assurance software development.</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/qualcomm/</fr:uri><fr:display-uri>qualcomm</fr:display-uri><fr:route>/qualcomm/</fr:route><fr:title text="Qualcomm"><fr:link href="https://www.qualcomm.com/" type="external">Qualcomm</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Senior Engineer</html:em></html:strong> <html:em>(2017 - 2019)</html:em> Responsible for maintenance and feature development in support of the shader compiler for
+Qualcomm GPU chipsets, focusing on support for the production Vulkan shader compiler.</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:uri>https://abakst.github.io/oracle/</fr:uri><fr:display-uri>oracle</fr:display-uri><fr:route>/oracle/</fr:route><fr:title text="Oracle"><fr:link href="https://www.oracle.com/" type="external">Oracle</fr:link></fr:title></fr:frontmatter><fr:mainmatter><html:p><html:strong><html:em>Software Developer</html:em></html:strong> <html:em>(2009 - 2011)</html:em> Developed a cluster filesystem and a dynamic volume manager (Oracle ACFS and Oracle ADVM).
+I contributed to both products on Linux, IBM AIX, Solaris, and Windows 2003 and 2008.</html:p></fr:mainmatter></fr:tree>
+</fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:uri>https://abakst.github.io/publications/</fr:uri>
+                <fr:display-uri>publications</fr:display-uri>
+                <fr:route>/publications/</fr:route>
+                <fr:title text="Publications">Publications</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/shellygrossman/" title="Shelly Grossman" uri="https://abakst.github.io/shellygrossman/" display-uri="shellygrossman" type="local">Shelly Grossman</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/johntoman/" title="John Toman" uri="https://abakst.github.io/johntoman/" display-uri="johntoman" type="local">John Toman</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/sameerarora/" title="Sameer Arora" uri="https://abakst.github.io/sameerarora/" display-uri="sameerarora" type="local">Sameer Arora</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/moolysagiv/" title="Mooly Sagiv" uri="https://abakst.github.io/moolysagiv/" display-uri="moolysagiv" type="local">Mooly Sagiv</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/chandrakananandi/" title="Chandrakana Nandi" uri="https://abakst.github.io/chandrakananandi/" display-uri="chandrakananandi" type="local">Chandrakana Nandi</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2024</fr:year>
+                    </fr:date>
+                    <fr:uri>https://abakst.github.io/memsplitting/</fr:uri>
+                    <fr:display-uri>memsplitting</fr:display-uri>
+                    <fr:route>/memsplitting/</fr:route>
+                    <fr:title text="Practical Verification of Smart Contracts using Memory Splitting">Practical Verification of Smart Contracts using Memory Splitting</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:meta name="doi">10.1145/3689796</fr:meta>
+                    <fr:meta name="venue">
+                      <fr:link href="/oopsla2024/" title="OOPSLA 2024: Object-Oriented Programming, Systems, Languages &amp; Applications" uri="https://abakst.github.io/oopsla2024/" display-uri="oopsla2024" type="local"><html:em>OOPSLA 2024</html:em>: Object-Oriented Programming, Systems, Languages &amp; Applications</fr:link>
+                    </fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>SMT-based verification of low-level code requires modeling and reasoning about memory operations. Prior work has shown that optimizing memory representations is beneficial for scaling verification—pointer analysis, for example can be used to split memory into disjoint regions leading to faster SMT solving. However, these techniques are mostly designed for C and C++ programs with explicit operations for memory allocation which are not present in all languages. For instance, on the Ethereum virtual machine, memory is simply a monolithic array of bytes which can be freely accessed by Ethereum bytecode, and there is no allocation primitive. In this paper, we present a memory splitting transformation guided by a conservative memory analysis for Ethereum bytecode generated by the Solidity compiler. The analysis consists of two phases: recovering memory allocation and memory regions, followed by a pointer analysis. The goal of the analysis is to enable memory splitting which in turn speeds up verification. We implemented both the analysis and the memory splitting transformation as part of a verification tool, CertoraProver, and show that the transformation speeds up SMT solving by up to 120x and additionally mitigates 16 timeouts when used on 229 real-world smart contract verification tasks.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/josephkiniry/" title="Joseph Kiniry" uri="https://abakst.github.io/josephkiniry/" display-uri="josephkiniry" type="local">Joseph Kiniry</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/simonhansen/" title="Simon Hansen" uri="https://abakst.github.io/simonhansen/" display-uri="simonhansen" type="local">Simon Hansen</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/michalpodhradsky/" title="Michal Podhradsky" uri="https://abakst.github.io/michalpodhradsky/" display-uri="michalpodhradsky" type="local">Michal Podhradsky</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/andrewbivin/" title="Andrew Bivin" uri="https://abakst.github.io/andrewbivin/" display-uri="andrewbivin" type="local">Andrew Bivin</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2023</fr:year>
+                    </fr:date>
+                    <fr:uri>https://abakst.github.io/hardens/</fr:uri>
+                    <fr:display-uri>hardens</fr:display-uri>
+                    <fr:route>/hardens/</fr:route>
+                    <fr:title text="HARDENS Final Report">HARDENS Final Report</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:meta name="venue">
+                      <fr:link href="https://github.com/galoisinc/hardens" type="external">https://github.com/galoisinc/hardens</fr:link>
+                    </fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter />
+                </fr:tree>
+                <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/klausvgleissenthall/" title="Klaus v. Gleissenthall" uri="https://abakst.github.io/klausvgleissenthall/" display-uri="klausvgleissenthall" type="local">Klaus v. Gleissenthall</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/ramikici/" title="Rami Gökhan Kıcı" uri="https://abakst.github.io/ramikici/" display-uri="ramikici" type="local">Rami Gökhan Kıcı</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/deianstefan/" title="Deian Stefan" uri="https://abakst.github.io/deianstefan/" display-uri="deianstefan" type="local">Deian Stefan</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/ranjitjhala/" title="Ranjit Jhala" uri="https://abakst.github.io/ranjitjhala/" display-uri="ranjitjhala" type="local">Ranjit Jhala</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2019</fr:year>
+                    </fr:date>
+                    <fr:uri>https://abakst.github.io/pretend/</fr:uri>
+                    <fr:display-uri>pretend</fr:display-uri>
+                    <fr:route>/pretend/</fr:route>
+                    <fr:title text="Pretend Synchrony: Synchronous Verification of Asynchronous Distributed Programs">Pretend Synchrony: Synchronous Verification of Asynchronous Distributed Programs</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:meta name="doi">10.1145/3290372</fr:meta>
+                    <fr:meta name="venue">
+                      <fr:link href="/popl2019/" title="POPL 2019: Principles of Programming Languages" uri="https://abakst.github.io/popl2019/" display-uri="popl2019" type="local"><html:em>POPL 2019</html:em>: Principles of Programming Languages</fr:link>
+                    </fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>We present pretend synchrony, a new approach to verifying distributed systems, based on the observation that while distributed programs must execute asynchronously, we can often soundly treat them as if they were synchronous when verifying their correctness. To do so, we compute a synchronization, a semantically equivalent program where all sends, receives, and message buffers, have been replaced by simple assignments, yielding a program that can be verified using Floyd-Hoare style Verification Conditions and SMT. We implement our approach as a framework for writing verified distributed programs in Go and evaluate it with four challenging case studies— the classic two-phase commit protocol, the Raft leader election protocol, single-decree Paxos protocol, and a Multi-Paxos based distributed key-value store. We find that pretend synchrony allows us to develop performant systems while making verification of functional correctness simpler by reducing manually specified invariants by a factor of 6, and faster, by reducing checking time by three orders of magnitude.
+</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/jenniferpaykin/" title="Jennifer Paykin" uri="https://abakst.github.io/jenniferpaykin/" display-uri="jenniferpaykin" type="local">Jennifer Paykin</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/ericmertens/" title="Eric Mertens" uri="https://abakst.github.io/ericmertens/" display-uri="ericmertens" type="local">Eric Mertens</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/marktullsen/" title="Mark Tullsen" uri="https://abakst.github.io/marktullsen/" display-uri="marktullsen" type="local">Mark Tullsen</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/lukemaurer/" title="Luke Maurer" uri="https://abakst.github.io/lukemaurer/" display-uri="lukemaurer" type="local">Luke Maurer</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/benoitrazet/" title="Benoît Razet" uri="https://abakst.github.io/benoitrazet/" display-uri="benoitrazet" type="local">Benoît Razet</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/scottmoore/" title="Scott Moore" uri="https://abakst.github.io/scottmoore/" display-uri="scottmoore" type="local">Scott Moore</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2019</fr:year>
+                    </fr:date>
+                    <fr:uri>https://abakst.github.io/weird/</fr:uri>
+                    <fr:display-uri>weird</fr:display-uri>
+                    <fr:route>/weird/</fr:route>
+                    <fr:title text="Weird Machines as Insecure Compilation">Weird Machines as Insecure Compilation</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:meta name="doi">10.48550/ARXIV.1911.00157</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter />
+                </fr:tree>
+                <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/klausvgleissenthall/" title="Klaus v. Gleissenthall" uri="https://abakst.github.io/klausvgleissenthall/" display-uri="klausvgleissenthall" type="local">Klaus v. Gleissenthall</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/ramikici/" title="Rami Gökhan Kıcı" uri="https://abakst.github.io/ramikici/" display-uri="ramikici" type="local">Rami Gökhan Kıcı</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/ranjitjhala/" title="Ranjit Jhala" uri="https://abakst.github.io/ranjitjhala/" display-uri="ranjitjhala" type="local">Ranjit Jhala</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2017</fr:year>
+                    </fr:date>
+                    <fr:uri>https://abakst.github.io/canonical/</fr:uri>
+                    <fr:display-uri>canonical</fr:display-uri>
+                    <fr:route>/canonical/</fr:route>
+                    <fr:title text="Verification of Distributed Programs via Canonical Sequentialization">Verification of Distributed Programs via Canonical Sequentialization</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:meta name="doi">10.1145/3133934</fr:meta>
+                    <fr:meta name="venue">
+                      <fr:link href="/oopsla2017/" title="OOPSLA 2017: Object-Oriented Programming, Systems, Languages &amp; Applications" uri="https://abakst.github.io/oopsla2017/" display-uri="oopsla2017" type="local"><html:em>OOPSLA 2017</html:em>: Object-Oriented Programming, Systems, Languages &amp; Applications</fr:link>
+                    </fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>We introduce canonical sequentialization, a new approach to verifying unbounded, asynchronous, message-passing programs at compile-time. Our approach builds upon the following observation: due the combinatorial explosion in complexity, programmers do not reason about their systems by case-splitting over all the possible execution orders. Instead, correct programs tend to be well-structured so that the programmer can reason about a small number of representative executions, which we call the program’s canonical sequentialization. We have implemented our approach in a tool called Brisk that synthesizes canonical sequentializations for programs written in Haskell, and evaluated it on a wide variety of distributed systems including benchmarks from the literature and implementations of MapReduce, two-phase commit, and a version of the Disco distributed file-system. We show that unlike model checking, which gets prohibitively slow with just 10 processes Brisk verifies the unbounded versions of the benchmarks in tens of milliseconds, yielding the first concurrency verification tool that is fast enough to be integrated into a design-implement-check cycle.
+</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/ranjitjhala/" title="Ranjit Jhala" uri="https://abakst.github.io/ranjitjhala/" display-uri="ranjitjhala" type="local">Ranjit Jhala</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2016</fr:year>
+                    </fr:date>
+                    <fr:uri>https://abakst.github.io/predabs/</fr:uri>
+                    <fr:display-uri>predabs</fr:display-uri>
+                    <fr:route>/predabs/</fr:route>
+                    <fr:title text="Predicate Abstraction for Linked Data Structures">Predicate Abstraction for Linked Data Structures</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:meta name="doi">10.1007/978-3-662-49122-5_3</fr:meta>
+                    <fr:meta name="venue">
+                      <fr:link href="/vmcai2016/" title="VMCAI 2016: Verification, Model Checking and Abstract Interpretation" uri="https://abakst.github.io/vmcai2016/" display-uri="vmcai2016" type="local"><html:em>VMCAI 2016</html:em>: Verification, Model Checking and Abstract Interpretation</fr:link>
+                    </fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>We present Alias Refinement Types Art, a new approach that uses predicate-abstractionto automate the verification of correctness properties of linked data structures.While there are many techniques for checking that a heap-manipulating program adheres to its specification, they often require that the programmer annotate the behavior of each procedure, for example, in the form of loop invariants and pre- and post-conditions.We introduce a technique that lifts predicate abstraction to the heap by factoring the analysis of data structures into two orthogonal components: 1ï źAlias Types, which reason about the physical shape of heap structures, and 2ï źRefinement Types, which use simple predicates from an SMT decidable theory to capture the logical or semantic properties of the structures.We evaluate Art by implementing a tool that performs type inference for an imperative language, and empirically show, using a suite of data-structure benchmarks, that Art requires only 21ï ź</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/nikivazou/" title="Niki Vazou" uri="https://abakst.github.io/nikivazou/" display-uri="nikivazou" type="local">Niki Vazou</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/ranjitjhala/" title="Ranjit Jhala" uri="https://abakst.github.io/ranjitjhala/" display-uri="ranjitjhala" type="local">Ranjit Jhala</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2015</fr:year>
+                    </fr:date>
+                    <fr:uri>https://abakst.github.io/bounded/</fr:uri>
+                    <fr:display-uri>bounded</fr:display-uri>
+                    <fr:route>/bounded/</fr:route>
+                    <fr:title text="Bounded Refinement Types">Bounded Refinement Types</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:meta name="venue">
+                      <fr:link href="/icfp2015/" title="ICFP 2015: International Conference on Functional Programming" uri="https://abakst.github.io/icfp2015/" display-uri="icfp2015" type="local"><html:em>ICFP 2015</html:em>: International Conference on Functional Programming</fr:link>
+                    </fr:meta>
+                    <fr:meta name="doi">10.1145/2784731.2784745</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>We present a notion of bounded quantification for refinement types and show how it expands the expressiveness of refinement typing by using it to develop typed combinators for: (1) relational algebra and safe database access, (2) Floyd-Hoare logic within a state transformer monad equipped with combinators for branching and looping, and (3) using the above to implement a refined IO monad that tracks capabilities and resource usage. This leap in expressiveness comes via a translation to ``ghost" functions, which lets us retain the automated and decidable SMT based checking and inference that makes refinement typing effective in practice.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/patrickrondon/" title="Patrick Rondon" uri="https://abakst.github.io/patrickrondon/" display-uri="patrickrondon" type="local">Patrick Rondon</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/mingkawaguchi/" title="Ming Kawaguchi" uri="https://abakst.github.io/mingkawaguchi/" display-uri="mingkawaguchi" type="local">Ming Kawaguchi</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/ranjitjhala/" title="Ranjit Jhala" uri="https://abakst.github.io/ranjitjhala/" display-uri="ranjitjhala" type="local">Ranjit Jhala</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2012</fr:year>
+                    </fr:date>
+                    <fr:uri>https://abakst.github.io/csolve/</fr:uri>
+                    <fr:display-uri>csolve</fr:display-uri>
+                    <fr:route>/csolve/</fr:route>
+                    <fr:title text="CSolve: Verifying C with Liquid Types">CSolve: Verifying C with Liquid Types</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:meta name="venue">
+                      <fr:link href="/cav2012/" title="CAV 2012: Computer Aided Verification" uri="https://abakst.github.io/cav2012/" display-uri="cav2012" type="local"><html:em>CAV 2012</html:em>: Computer Aided Verification</fr:link>
+                    </fr:meta>
+                    <fr:meta name="doi">10.1007/978-3-642-31424-7_59</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>We present CSolve, an automated verifier for C programs based on Liquid Type inference. We show how CSolve verifies memory safety through an example and describe its architecture and interface.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+                <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+                  <fr:frontmatter>
+                    <fr:authors>
+                      <fr:author>
+                        <fr:link href="/mingkawaguchi/" title="Ming Kawaguchi" uri="https://abakst.github.io/mingkawaguchi/" display-uri="mingkawaguchi" type="local">Ming Kawaguchi</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/patrickrondon/" title="Patrick Rondon" uri="https://abakst.github.io/patrickrondon/" display-uri="patrickrondon" type="local">Patrick Rondon</fr:link>
+                      </fr:author>
+                      <fr:author>
+                        <fr:link href="/alexander/" title="Alexander Bakst" uri="https://abakst.github.io/alexander/" display-uri="alexander" type="local">Alexander Bakst</fr:link>
+                      </fr:author>
+                    </fr:authors>
+                    <fr:date>
+                      <fr:year>2012</fr:year>
+                    </fr:date>
+                    <fr:uri>https://abakst.github.io/liquideffects/</fr:uri>
+                    <fr:display-uri>liquideffects</fr:display-uri>
+                    <fr:route>/liquideffects/</fr:route>
+                    <fr:title text="Deterministic Parallelism via Liquid Effects">Deterministic Parallelism via Liquid Effects</fr:title>
+                    <fr:taxon>Reference</fr:taxon>
+                    <fr:meta name="venue">
+                      <fr:link href="/pldi2012/" title="PLDI 2012: Programming Language Design and Implementation" uri="https://abakst.github.io/pldi2012/" display-uri="pldi2012" type="local"><html:em>PLDI 2012</html:em>: Programming Language Design and Implementation</fr:link>
+                    </fr:meta>
+                    <fr:meta name="doi">10.1145/2254064.2254071</fr:meta>
+                  </fr:frontmatter>
+                  <fr:mainmatter>
+                    <html:p>Shared memory multithreading is a popular approach to parallel programming, but also fiendishly hard to get right. We present Liquid Effects, a type-and-effect system based on refinement types which allows for fine-grained, low-level, shared memory multi-threading while statically guaranteeing that a program is deterministic. Liquid Effects records the effect of an expression as a for- mula in first-order logic, making our type-and-effect system highly expressive. Further, effects like Read and Write are recorded in Liquid Effects as ordinary uninterpreted predicates, leaving the effect system open to extension by the user. By building our system as an extension to an existing dependent refinement type system, our system gains precise value- and branch-sensitive reasoning about effects. Finally, our system exploits the Liquid Types refinement type inference technique to automatically infer refinement types and effects. We have implemented our type-and-effect checking techniques in CSOLVE, a refinement type inference system for C programs. We demonstrate how CSOLVE uses Liquid Effects to prove the determinism of a variety of benchmarks.</html:p>
+                  </fr:mainmatter>
+                </fr:tree>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:uri>https://abakst.github.io/service/</fr:uri>
+                <fr:display-uri>service</fr:display-uri>
+                <fr:route>/service/</fr:route>
+                <fr:title text="Academic Service">Academic Service</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:ol><html:li><fr:link href="/vmcai2026/" title="VMCAI 2026: Verification, Model Checking and Abstract Interpretation" uri="https://abakst.github.io/vmcai2026/" display-uri="vmcai2026" type="local"><html:em>VMCAI 2026</html:em>: Verification, Model Checking and Abstract Interpretation</fr:link> program committee</html:li>
+    <html:li><fr:link href="/aplas2025/" title="APLAS 2025: Asian Symposium on Programming Languages and Systems" uri="https://abakst.github.io/aplas2025/" display-uri="aplas2025" type="local"><html:em>APLAS 2025</html:em>: Asian Symposium on Programming Languages and Systems</fr:link> program committee</html:li>
+    <html:li><fr:link href="/pldi2025/" title="PLDI 2025: Programming Language Design and Implementation" uri="https://abakst.github.io/pldi2025/" display-uri="pldi2025" type="local"><html:em>PLDI 2025</html:em>: Programming Language Design and Implementation</fr:link> review committee</html:li></html:ol>
+              </fr:mainmatter>
+            </fr:tree>
+            <fr:tree show-metadata="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:uri>https://abakst.github.io/edu/</fr:uri>
+                <fr:display-uri>edu</fr:display-uri>
+                <fr:route>/edu/</fr:route>
+                <fr:title text="Education">Education</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+    
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:title text="University of California, San Diego">University of California, San Diego</fr:title></fr:frontmatter><fr:mainmatter><html:p><html:em>Ph.D., Computer Science, 2017</html:em></html:p><html:p>Dissertation: "Sequentialization and Synchronization for Distributed Programs"</html:p></fr:mainmatter></fr:tree>
+    <fr:tree show-metadata="false" toc="false"><fr:frontmatter><fr:authors /><fr:title text="Massachusetts Institute of Technology">Massachusetts Institute of Technology</fr:title></fr:frontmatter><fr:mainmatter><html:p><html:em>M.Eng., Computer Science, 2009</html:em>,<html:em>S.B., Computer Science, 2008</html:em></html:p></fr:mainmatter></fr:tree>
+</fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Backlinks">Backlinks</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Related">Related</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+    <fr:tree show-metadata="false" hidden-when-empty="true">
+      <fr:frontmatter>
+        <fr:authors />
+        <fr:title text="Contributions">Contributions</fr:title>
+      </fr:frontmatter>
+      <fr:mainmatter />
+    </fr:tree>
+  </fr:backmatter>
+</fr:tree>
