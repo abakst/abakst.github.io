@@ -30,7 +30,37 @@
         <fr:authors />
         <fr:title text="Context">Context</fr:title>
       </fr:frontmatter>
-      <fr:mainmatter />
+      <fr:mainmatter>
+        <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+          <fr:frontmatter>
+            <fr:authors />
+            <fr:uri>https://abakst.github.io/zhongwen/</fr:uri>
+            <fr:display-uri>zhongwen</fr:display-uri>
+            <fr:route>/zhongwen/</fr:route>
+            <fr:title text="学习中文的博客">学习中文的博客</fr:title>
+          </fr:frontmatter>
+          <fr:mainmatter>
+            <fr:tree show-metadata="true" expanded="false" toc="false" numbered="false">
+              <fr:frontmatter>
+                <fr:authors />
+                <fr:date>
+                  <fr:year>2026</fr:year>
+                  <fr:month>1</fr:month>
+                  <fr:day>21</fr:day>
+                </fr:date>
+                <fr:uri>https://abakst.github.io/0001/</fr:uri>
+                <fr:display-uri>0001</fr:display-uri>
+                <fr:route>/0001/</fr:route>
+                <fr:title text="欢迎来到！">欢迎来到！</fr:title>
+              </fr:frontmatter>
+              <fr:mainmatter>
+                <html:p>我希望用这个博客来学习并练习中文。我计划每次用口语来写几个句子， 然后查出什么是对的， 什么是对的， 最后写我所了解了。
+</html:p>
+              </fr:mainmatter>
+            </fr:tree>
+          </fr:mainmatter>
+        </fr:tree>
+      </fr:mainmatter>
     </fr:tree>
     <fr:tree show-metadata="false" hidden-when-empty="true">
       <fr:frontmatter>

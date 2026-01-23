@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <contributor>
+    <name>Alexander Bakst</name>
+    <uri>https://abakst.github.io/alexander/</uri>
+  </contributor>
+  <updated>2026-01-21</updated>
+  <title>学习中文的博客</title>
+  <id>https://abakst.github.io/zhongwen/</id>
+  <link rel="alternate" href="https://abakst.github.io/zhongwen/" />
+  <link rel="self" href="https://abakst.github.io/zhongwen/atom.xml" />
+  <entry>
+    <title>欢迎来到！</title>
+    <published>2026-01-21T00:00:00Z</published>
+    <updated>2026-01-21T00:00:00Z</updated>
+    <author>
+      <name>Alexander Bakst</name>
+      <uri>https://abakst.github.io/alexander/</uri>
+    </author>
+    <link rel="alternate" type="text/html" href="https://abakst.github.io/0001/" />
+    <id>https://abakst.github.io/0001/</id>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <p>我希望用这个博客来学习并练习中文。我计划每次用口语来写几个句子， 然后查出什么是对的， 什么是对的， 最后写我所了解了。
+</p>
+      </div>
+    </content>
+  </entry>
+</feed>

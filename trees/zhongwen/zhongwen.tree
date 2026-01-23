@@ -1,5 +1,8 @@
 \title{学习中文的博客}
-\query\datalog{
-  ?X -:
-   {\rel/has-tag ?X '{中文}}
-}
+
+\put\transclude/expanded{false}
+\put\transclude/metadata{true}
+\put\transclude/numbered{false}
+\put\transclude/toc{false}
+
+\transclude{0001}
