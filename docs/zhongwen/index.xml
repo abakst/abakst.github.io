@@ -23,7 +23,7 @@
         <fr:title text="欢迎来到！">欢迎来到！</fr:title>
       </fr:frontmatter>
       <fr:mainmatter>
-        <html:p>我希望用这个博客来学习并练习中文。我计划每次用口语来写几个句子， 然后查出什么是对的， 什么是对的， 最后写我所理解了。
+        <html:p>我希望用这个博客来学习并练习中文。我计划每次用口语来写几个句子， 然后查出什么是对的， 什么是对的， 最后写我所了解了。
 </html:p>
       </fr:mainmatter>
     </fr:tree>
